@@ -1,4 +1,4 @@
-[![JSON for Modern C++](docs/json.gif)](https://github.com/nlohmann/json/releases)
+[![JSON for Modern C++](https://github.com/nlohmann/json/blob/develop/docs/json.gif)](https://github.com/nlohmann/json/releases/docs/json.gif)
 
 [![Build Status](https://ci.appveyor.com/api/projects/status/1acb366xfyg3qybk/branch/develop?svg=true)](https://ci.appveyor.com/project/nlohmann/json)
 [![Ubuntu](https://github.com/nlohmann/json/workflows/Ubuntu/badge.svg)](https://github.com/nlohmann/json/actions?query=workflow%3AUbuntu)
