@@ -1,4 +1,4 @@
-#include "curl_global_init.hpp"
+#include <zen/curl/curl_global_init.hpp>
 
 namespace zen::curl {
     const curl_global_wrapper&

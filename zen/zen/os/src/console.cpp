@@ -1,4 +1,4 @@
-#include "console.hpp"
+#include <zen/os/console.hpp>
 
 #include <zen/os/ansi_color.hpp>
 

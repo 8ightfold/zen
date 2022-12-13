@@ -1,4 +1,4 @@
-#include "generate_pdb.hpp"
+#include <zen/curl/generate_pdb.hpp>
 
 #include <fstream>
 #include <thread>
