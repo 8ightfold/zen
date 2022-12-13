@@ -5,7 +5,7 @@ This is done by hacking awesome [miniz](https://github.com/richgel999/miniz) lib
 
 
 # The Idea
-<img src="zip.png" name="zip" />
+<img src="https://github.com/kuba--/zip/blob/master/zip.png" name="zip" />
 ... Some day, I was looking for zip library written in C for my project, but I could not find anything simple enough and lightweight.
 Everything what I tried required 'crazy mental gymnastics' to integrate or had some limitations or was too heavy.
 I hate frameworks, factories and adding new dependencies. If I must to install all those dependencies and link new library, I'm getting almost sick.
