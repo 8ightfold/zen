@@ -1,2 +1,3 @@
+![zen_gif](docs/being_zen.gif)
 # zen
- maybe an engine
+ will be cool someday, for now its just the barebones library.
